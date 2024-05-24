@@ -1,0 +1,5 @@
+SQLAlchemy~=2.0.30
+telebot~=0.0.5
+schedule~=1.2.1
+dadata~=21.10.1
+requests~=2.32.2
